@@ -1,0 +1,44 @@
+.pestañas {
+    overflow: hidden;
+    height;: 20%;
+    background-color: white;
+    padding: 14px 16px;
+    font-size: 17px
+}
+.contenido_pestañas{
+    padding-top: 30px;
+    font-size: 25px;
+}
+.boton {
+    background-color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 34px;
+}
+.contenido {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+}
+
+
+
+#Inicio{
+    margin: 0;
+    width: 40%;
+    padding: 5%;
+    float: left;
+
+}
+body{
+    background-color: cornflowerblue;
+}
+footer{
+    text-align: center;
+    overflow:hidden;
+    flex:initial;
+}
